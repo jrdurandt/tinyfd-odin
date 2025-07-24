@@ -1,0 +1,3 @@
+[submodule "tinyfd-zig"]
+	path = tinyfd-zig
+	url = https://github.com/jrdurandt/tinyfd-zig
