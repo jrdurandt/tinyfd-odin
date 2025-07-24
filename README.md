@@ -5,6 +5,8 @@
 
 Requires [zig 0.14.0]() to build cross-platform
 
+Pull submodules `git submodule update --init --recursive`
+
 Native: `zig build`
 
 Linux: `zig build -Dtarget=x86_64-linux`
