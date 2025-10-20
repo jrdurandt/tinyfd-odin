@@ -1,7 +1,5 @@
 # tinyfd
 
-Archived: Moved to https://gitlab.com/jrdurandt/tinyfd-odin
-
 [Odin](https://odin-lang.org/) bindings for [tinyfiledialogs](https://sourceforge.net/projects/tinyfiledialogs/)
 
 ## Build:
